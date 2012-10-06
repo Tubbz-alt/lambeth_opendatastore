@@ -1,0 +1,7 @@
+*.xls*
+*.doc*
+*.ppt*
+*.pdf
+*.exe
+*.dll
+/nbproject/private/
