@@ -1,13 +1,4 @@
-Lambeth Invoices Over Specified Nett Amount,,,,,
-,,,,,
-Report Date:  02/07/2012  16:59:18,,,,,
-,,,,,
-Parameters: ,,,,,
-Invoice Approval Date From:  01-JUN-2012,,,,,
-Invoice Approval Date To:      30-JUN-2012,,,,,
-Invoice Threshold Nett Amt:   500,,,,,
-,,,,,
-Body,Department,Supplier Name,Invoice Creation Date,Invoice Nett Amount,Subj Description
+Body,Department,Supplier Name,Invoice Creation Date,Total,Subj Description
 Lambeth,Adults' and Community Services,170 Community Project,08/06/2012,1534.24,FLOATING SUPPORT SERVICES
 Lambeth,Children and Young People's Service,198 Contemporary Arts & Learning Ltd,06/06/2012,1750.00,GRANTS
 Lambeth,Adults' and Community Services,229 Mitcham Lane Ltd,25/06/2012,4928.57,RESIDENTIAL CARE PRIVATE SPOT
@@ -3163,9 +3154,3 @@ Lambeth,Children and Young People's Service,Your Story,31/05/2012,1401.50,PROFES
 Lambeth,Children and Young People's Service,Youth Justice Board For England And Wales,02/04/2012,3732.69,PRIVATE RESIDENTIAL CARE
 Lambeth,Children and Young People's Service,Youth Justice Board For England And Wales,08/06/2012,3100.02,PRIVATE RESIDENTIAL CARE
 Lambeth,Children and Young People's Service,Ziadies Solicitors,14/06/2012,1090.00,LEGAL FEES
-,,,,,
-Total,       ,,,40292334.84,
-,,,,,
-,,,,,
-,,,,,
-,       ,,,,
