@@ -1,12 +1,3 @@
-Lambeth Invoices Over Specified Nett Amount,,,,,
-,,,,,
-Report Date:  05/09/2012  15:16:51,,,,,
-,,,,,
-Parameters: ,,,,,
-Invoice Approval Date From:  01-AUG-2012,,,,,
-Invoice Approval Date To:      31-AUG-2012,,,,,
-Invoice Threshold Nett Amt:   500,,,,,
-,,,,,
 Body,Department,Supplier Name,Invoice Creation Date,Invoice Nett Amount,Subj Description
 Lambeth,Adults' and Community Services,170 Community Project,07/08/2012,"1,534.24",FLOATING SUPPORT SERVICES
 Lambeth,Adults' and Community Services,229 Mitcham Lane Ltd,28/08/2012,"5,092.86",RESIDENTIAL CARE PRIVATE SPOT
@@ -3107,10 +3098,3 @@ Lambeth,Office of the Chief Executive/Finance and Resources,Watmores Solicitors,
 Lambeth,Office of the Chief Executive/Finance and Resources,Watmores Solicitors,31/07/2012,"10,000.00",INSURANCE FUND PROVISION - GF
 Lambeth,Office of the Chief Executive/Finance and Resources,Watts Group PLC,17/08/2012,"5,475.00",BUILDING CONTRACT CERTS/INVS
 Lambeth,Office of the Chief Executive/Finance and Resources,Ziadies Solicitors,20/08/2012,"2,500.00",DAMAGES - HOUSING DISREPAIR
-,,,,,
-,***************************************** End of Report ****************************************************,,,,
-,       ,,,,
-,,,,,
-,,,,,
-,,,,,
-,       ,,,,
